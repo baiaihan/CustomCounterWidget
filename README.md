@@ -6,4 +6,4 @@
 
 效果图：
 
-[img]("https://github.com/baiaihan/CustomCounterWidget/blob/master/img/SVID_20200924_141741_1%2000_00_00-00_00_30.gif")
+![img](https://github.com/baiaihan/CustomCounterWidget/blob/master/img/SVID_20200924_141741_1%2000_00_00-00_00_30.gif)
